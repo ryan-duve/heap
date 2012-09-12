@@ -1,1 +1,1 @@
-Change a string in a function without passing it.
+Change a string in a function without passing it by passing by reference.
